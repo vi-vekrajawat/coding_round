@@ -17,4 +17,4 @@ var longestValidParentheses = function(s) {
 // Test examples
 console.log("Example 1:", longestValidParentheses("(()"));    // Output: 2
 console.log("Example 2:", longestValidParentheses(")()())")); // Output: 4
-console.log("Example 3:", longestValidParentheses(""));       // Output: 0
+console.log("Example 3:", longestValidParentheses(""));       // Output: 0 
